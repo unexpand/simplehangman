@@ -1,0 +1,4 @@
+name: simplehangman
+dependencies:
+  browser: any
+  web_ui: any
